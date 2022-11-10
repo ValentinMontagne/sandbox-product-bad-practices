@@ -1,4 +1,10 @@
-# Qwik App ⚡️
+# Sandbox Product Bad Practices
+
+This project is for educational purposes to show students common mistakes on e-commerces.
+This project does not have a responsive version on purpose.
+Little bonus: Test of an incredible technology that is Qwik!
+
+## Qwik App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
