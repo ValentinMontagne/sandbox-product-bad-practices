@@ -1,0 +1,17 @@
+#illustration {
+    max-width: 59vw;
+    max-height: 35vh;
+    display: block;
+    border-bottom-right-radius: 500px;
+    border-bottom-left-radius: 100px;
+    position: relative;
+    overflow: hidden;
+}
+
+#illustration2 {
+    display: block;
+    border-top-left-radius: 270px;
+    border-top-right-radius: 270px;
+    position: relative;
+    overflow: hidden;
+}
