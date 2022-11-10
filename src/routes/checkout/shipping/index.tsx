@@ -64,7 +64,9 @@ export default component$(() => {
                         <input placeholder='Ville' required />
                     </label>
                 </div>
-                <button class='flex btn error ml-auto' type='submit'>Payer</button>
+                <div class='movable-ctn'>
+                    <button class='flex btn error ml-auto move' type='submit'>Payer</button>
+                </div>
             </form>
         </div>
     );
